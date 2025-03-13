@@ -10,10 +10,6 @@ Este curso está integrado con GitHub Codespaces, un entorno de desarrollo insta
 
 Explora las capacidades de Rust para manejar programación concurrente de manera segura y eficiente. Este curso está diseñado para desarrolladores con experiencia básica en Rust que desean aprender a crear y gestionar hilos, sincronizar información y resolver problemas clásicos como el productor-consumidor y los lectores-escritores. A través de ejemplos prácticos, dominarás herramientas clave de Rust como hilos, canales y bloqueos. Aprovecha al máximo estas características para escribir código concurrente robusto y confiable, llevando tus proyectos a un nuevo nivel de rendimiento.
 
-## Instrucciones
-
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
-
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
