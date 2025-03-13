@@ -22,7 +22,7 @@ Este curso está integrado con GitHub Codespaces, un entorno de desarrollo insta
 Cada episodio de la serie Level Up ofrece al menos 12 ejercicios prácticos en diferentes niveles de dificultad para que puedas desafiarte y reforzar lo que has aprendido. Aprende a configurar y utilizar un espacio de código con el vídeo “Cómo usar GitHub Codespaces con este curso”. 
 
 
-DESCRIPCIÓN DEL CURSO
+Explora las capacidades de Rust para manejar programación concurrente de manera segura y eficiente. Este curso está diseñado para desarrolladores con experiencia básica en Rust que desean aprender a crear y gestionar hilos, sincronizar información y resolver problemas clásicos como el productor-consumidor y los lectores-escritores. A través de ejemplos prácticos, dominarás herramientas clave de Rust como hilos, canales y bloqueos. Aprovecha al máximo estas características para escribir código concurrente robusto y confiable, llevando tus proyectos a un nuevo nivel de rendimiento.
 
 ## Instrucciones
 
@@ -48,4 +48,4 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFKt6q65cswjA/learning-public-crop_675_1200/B4EZWPD_XWHUAc-/0/1741861943149?e=2147483647&v=beta&t=W4Gt_L9Jq2aFmjFaL7YH8BUaDu9E1_YxXeQUF6uFDgM
