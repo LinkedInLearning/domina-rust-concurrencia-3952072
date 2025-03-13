@@ -44,7 +44,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 **Eliezer López**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning]([https://www.linkedin.com/learning/instructors/eliezer-lopez).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning]([https://www.linkedin.com/learning/instructors/eliezer-lopez]).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
