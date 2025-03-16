@@ -10,19 +10,17 @@ Este curso está integrado con GitHub Codespaces, un entorno de desarrollo insta
 
 Explora las capacidades de Rust para manejar programación concurrente de manera segura y eficiente. Este curso está diseñado para desarrolladores con experiencia básica en Rust que desean aprender a crear y gestionar hilos, sincronizar información y resolver problemas clásicos como el productor-consumidor y los lectores-escritores. A través de ejemplos prácticos, dominarás herramientas clave de Rust como hilos, canales y bloqueos. Aprovecha al máximo estas características para escribir código concurrente robusto y confiable, llevando tus proyectos a un nuevo nivel de rendimiento.
 
-## Instalación
+## Instrucciones
 
-1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+En este repositorio encontrarás un listado de carpetas. Cada carpeta corresponde con un capítulo dentro del curso, y en su interior encontrarás los archivos fuente de las diferentes lecciones: uno que contiene el código utilizado en el video en su estado inicial (a), y otro que contiene el código en su estado final (b).
 
-2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+También debes saber que cada lección incluye una función principal main, que te permitirá trabajar con cada ejercicio en su estado inicial (a) y en su estado final (b) de manera independiente. Si utilizas GitHub Codespecase, asegúrate que a la hora de compilar estés haciendo uso de una única función main para evitar conflictos en el proceso de compilación. En la grabación de los videos se utiliza Rust Playground.
 
 ### Docente
 
 **Eliezer López**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez) y a mi libro «[Curso de Programación con Rust](https://www.amazon.es/Curso-programaci%C3%B3n-Rust-MANUALES-IMPRESCINDIBLES/dp/8441549095)» editado por ANAYA Multimedia.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
