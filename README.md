@@ -1,6 +1,6 @@
 # Domina Rust: Concurrencia
 
-Este es el repositorio del curso de LinkedIn Learning `Domina Rust: Concurrencia`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Rust: Concurrencia`. El curso completo está disponible en [LinkedIn Learning][(https://www.linkedin.com/learning/domina-rust-concurrencia)].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
