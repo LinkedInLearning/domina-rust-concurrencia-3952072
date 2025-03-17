@@ -1,6 +1,6 @@
 # Domina Rust: Concurrencia
 
-Este es el repositorio del curso de LinkedIn Learning `Domina Rust: Concurrencia`. El curso completo está disponible en [LinkedIn Learning][(https://www.linkedin.com/learning/domina-rust-concurrencia)].
+Este es el repositorio del curso de LinkedIn Learning `Domina Rust: Concurrencia`. El curso completo está disponible en [LinkedIn Learning](https://www.linkedin.com/learning/domina-rust-concurrencia).
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
@@ -20,7 +20,7 @@ También debes saber que cada lección incluye una función principal main, que 
 
 **Eliezer López**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez) y a mi libro «[Curso de Programación con Rust](https://www.amazon.es/Curso-programaci%C3%B3n-Rust-MANUALES-IMPRESCINDIBLES/dp/8441549095)» editado por ANAYA Multimedia.
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez) y a mi libro «[Curso de Programación con Rust](https://www.amazon.es/Curso-programaci%C3%B3n-Rust-MANUALES-IMPRESCINDIBLES/dp/8441549095)».
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
